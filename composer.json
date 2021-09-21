@@ -1,5 +1,5 @@
 {
-    "name": "hocza/laravel-mailerlite",
+    "name": "wifiaccesspoint/laravel-mailerlite",
     "description": "Laravel 5+ Wrapper for MailerLite API",
     "keywords": ["laravel","mail","mailerlite","mailerlite-api-v2"],
     "homepage": "http://hocza.com",
